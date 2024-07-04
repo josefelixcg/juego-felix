@@ -109,3 +109,8 @@ button {
     font-size: 32px;
     font-weight: 400;
 }
+@media (min-width: 340px) and (max-width: 450px) {
+    .container {
+        width: 100%;
+    }
+}
